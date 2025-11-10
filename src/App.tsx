@@ -39,7 +39,7 @@ function App() {
         <Card className="w-full max-w-xl backdrop-blur-lg bg-white/90 shadow-xl">
           <CardHeader className="flex flex-col items-center text-center space-y-4">
             <Avatar>
-              <AvatarImage src="../public/logo.png" />
+              <AvatarImage src="/logo.png" />
               <AvatarFallback>AI</AvatarFallback>
             </Avatar>
             <div className="space-y-2">
