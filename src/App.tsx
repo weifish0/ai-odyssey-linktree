@@ -4,11 +4,18 @@ import { Avatar, AvatarFallback, AvatarImage } from "@/components/ui/avatar";
 
 const links = [
   {
-    title: "AI Odyssey 遊戲網站",
+    title: "AI Odyssey 遊戲網站 上課教學版",
     description: "探索 AI 冒險世界的官方入口，開啟互動體驗。",
     href: "https://joelitw1015.github.io/AI_Odyssey_Web_Page/",
     icon: Gamepad2,
     thumb: "/game.png"
+  },
+  {
+    title: "AI Odyssey 遊戲網站 學生自學版",
+    description: "探索 AI 冒險世界的官方入口，開啟互動體驗。",
+    href: "https://weifish0.github.io/ai-odyssey/char.html/",
+    icon: Gamepad2,
+    thumb: "/game0.png"
   },
   {
     title: "AI 素養課程 01：提示詞工程",
