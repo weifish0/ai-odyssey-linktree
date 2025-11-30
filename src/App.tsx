@@ -12,8 +12,8 @@ const links = [
   },
   {
     title: "AI Odyssey 遊戲網站 學生自學版",
-    description: "探索 AI 冒險世界的官方入口，開啟互動體驗。",
-    href: "https://weifish0.github.io/ai-odyssey/char.html/",
+    description: "由學生打開 AI 冒險世界，自主學習與探索。",
+    href: "https://weifish0.github.io/ai-odyssey/char.html",
     icon: Gamepad2,
     thumb: "/game0.png"
   },
